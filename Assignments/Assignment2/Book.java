@@ -1,6 +1,5 @@
 /** child class (is-an Item), implements Comparable to sort
  * This class is for the item type Book that contains all its attributes
- * November 20, 2019 - Assignment 2
  */
 import java.util.*;
 public class Book extends Item implements Comparable<Book>
